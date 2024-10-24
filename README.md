@@ -1,7 +1,6 @@
-calculator-project/
-│
-├── src/
-│   └── calculator.py (or .cpp/.js, etc.)
+calculator-project
+├── src
+   └── calculator.py (or .cpp/.js, etc.)
 ├── README.md
 
 This captivating calculator project 🧮, meticulously crafted with JavaScript, HTML, and CSS, presents a seamless and engaging interface for essential arithmetic operations ➕➖. JavaScript orchestrates the dynamic 
